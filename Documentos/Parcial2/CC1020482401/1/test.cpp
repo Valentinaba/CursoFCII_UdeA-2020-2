@@ -17,7 +17,7 @@ int main(int argc, char const *argv[])
 	string formato4 = D_M_A_COMPLETE;
 
 	// se muestra en pantalla los formatos disponibles------
-	cout << "----- Los formatos disponibles son  -----" << endl;
+	cout << "------ Los formatos disponibles son  ------" << endl;
 	cout << "Formato 1: ";
 	date1.print(formato1);
 	cout << endl;
