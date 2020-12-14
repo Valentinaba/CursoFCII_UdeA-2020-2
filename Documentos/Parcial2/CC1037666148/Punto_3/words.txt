@@ -1,0 +1,1 @@
+calle,perro,gato,cielo,edificio,antena,casa,animal,persona,montaña

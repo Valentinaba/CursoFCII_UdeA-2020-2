@@ -1,0 +1,1 @@
+g++ Cuenta.cpp cuentaAhorros.cpp cuentaCheque.cpp main.cpp -o a.out && ./a.out

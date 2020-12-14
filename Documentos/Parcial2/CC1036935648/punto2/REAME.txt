@@ -1,0 +1,4 @@
+
+Compilar con el comando:
+
+c++ *.cpp
